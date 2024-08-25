@@ -8,5 +8,5 @@ In this paper we present a saliency target detection method for unaligned RGB-T 
 - The dataset is available at  ：[dataset](https://pan.baidu.com/s/1lgsbp9VDqPO623QJhKRzrA?pwd=zqq2).
 
 ## Quantitative Results
-![图片(./0.png)
+![图片](./0.png)
 
